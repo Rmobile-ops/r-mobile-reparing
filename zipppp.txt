@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>R Mobile Repairing</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gradient-to-br from-blue-100 to-purple-100 min-h-screen text-gray-800">
+  <header class="bg-blue-600 text-white p-4 shadow-md">
+    <h1 class="text-3xl font-bold text-center">R Mobile Repairing</h1>
+    <p class="text-center text-sm">Shop No.8, Royal Plaza, Yashwant Gaurav, Nallasopara West - 401203</p>
+  </header>
+
+  <main class="p-4">
+    <!-- Homepage Image -->
+    <div class="flex justify-center">
+      <img src="/images/repair-boy.jpg" alt="Boy repairing phone" class="rounded-xl shadow-lg w-full max-w-md">
+    </div>
+
+    <!-- Description -->
+    <section class="my-6 text-center">
+      <h2 class="text-xl font-semibold mb-2">हमारी सेवाएँ</h2>
+      <p>R Mobile Repairing में हम आपके मोबाइल की सभी समस्याओं का समाधान करते हैं – स्क्रीन रिप्लेसमेंट, टच रिपेयरिंग, हार्डवेयर व सॉफ्टवेयर सर्विस, और भी बहुत कुछ। अब आप हमारी वेबसाइट से आसानी से अपॉइंटमेंट बुक कर सकते हैं और घर बैठे Pickup/Drop की सुविधा ले सकते हैं।</p>
+    </section>
+
+    <!-- Accessories Section -->
+    <section class="my-6">
+      <h2 class="text-xl font-semibold text-center mb-4">मोबाइल Accessories</h2>
+      <div class="grid grid-cols-2 sm:grid-cols-3 gap-4 text-center">
+        <div class="p-4 bg-white shadow rounded-xl">Neckband</div>
+        <div class="p-4 bg-white shadow rounded-xl">Bluetooth</div>
+        <div class="p-4 bg-white shadow rounded-xl">4-in-1 Cable</div>
+        <div class="p-4 bg-white shadow rounded-xl">Bluetooth Speaker</div>
+        <div class="p-4 bg-white shadow rounded-xl">USB</div>
+        <div class="p-4 bg-white shadow rounded-xl">Adapter</div>
+        <div class="p-4 bg-white shadow rounded-xl">Cover</div>
+        <div class="p-4 bg-white shadow rounded-xl">AirPods Cover</div>
+        <div class="p-4 bg-white shadow rounded-xl">C-Type Earphone</div>
+      </div>
+    </section>
+
+    <!-- WhatsApp & Insta -->
+    <section class="my-6 text-center">
+      <h2 class="text-xl font-semibold mb-2">हमसे जुड़े</h2>
+      <p><a href="https://whatsapp.com/channel/0029VaZTZNM5K3zPO6HBFK0m" class="text-blue-700 font-bold">WhatsApp Channel Join करें</a></p>
+      <p><img src="/images/insta-barcode.png" alt="Instagram QR" class="mx-auto my-2 w-32"></p>
+      <p>Instagram: @rmobilerepairing</p>
+    </section>
+
+    <!-- Google Review -->
+    <section class="my-6 text-center">
+      <h2 class="text-xl font-semibold mb-2">Google पर रिव्यू दें</h2>
+      <a href="https://www.google.com/search?q=r+mobile+repairing+nala+sopara+reviews" class="bg-green-500 text-white px-4 py-2 rounded shadow">Review दें</a>
+    </section>
+
+    <!-- Payment QR -->
+    <section class="my-6 text-center">
+      <h2 class="text-xl font-semibold mb-2">ऑनलाइन पेमेंट करें</h2>
+      <img src="/images/payment-qr.png" alt="QR Code" class="mx-auto w-48">
+      <p class="mt-2 font-medium">UPI ID: <span class="text-blue-700">Q818983747@ybl</span></p>
+    </section>
+
+    <footer class="text-center text-sm text-gray-600 my-6">
+      &copy; 2025 R Mobile Repairing. सभी अधिकार सुरक्षित।
+    </footer>
+  </main>
+</body>
+</html>
